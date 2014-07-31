@@ -1,0 +1,35 @@
+{
+  "name": "Aniways",
+  "version": "2.3.9",
+  "homepage": "www.aniways.com",
+  "authors": [
+    "Daniel Kalman <daniel@aniways.com>"
+  ],
+  "description": "Enrich web chat applications",
+  "main": [
+    "aniways.min.js",
+    "aniways.css"
+  ],
+  "keywords": [
+    "chat",
+    "emoticons",
+    "aniways",
+    "monetization"
+  ],
+  "license": "GPLv3+",
+  "private": false,
+  "ignore": [
+    "src",
+    "README.md"
+  ],
+  "_release": "2.3.9",
+  "_resolution": {
+    "type": "version",
+    "tag": "v2.3.9",
+    "commit": "b1cec2b7c9868af815b477964ec12492c8fb77f2"
+  },
+  "_source": "git://github.com/Aniways/web-SDK.git",
+  "_target": "~2.3.9",
+  "_originalSource": "aniways",
+  "_direct": true
+}

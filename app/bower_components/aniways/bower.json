@@ -1,0 +1,22 @@
+{
+  "name": "Aniways",
+  "version": "2.3.9",
+  "homepage": "www.aniways.com",
+  "authors": [
+    "Daniel Kalman <daniel@aniways.com>"
+  ],
+  "description": "Enrich web chat applications",
+  "main": ["aniways.min.js", "aniways.css"],
+  "keywords": [
+    "chat",
+    "emoticons",
+    "aniways",
+    "monetization"
+  ],
+  "license": "GPLv3+",
+  "private": false,
+  "ignore": [
+    "src",
+    "README.md"
+  ]
+}
